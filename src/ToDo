@@ -1,0 +1,8 @@
+timer: lav singlshot/repeat til count 0=repeat 1=single 2... (Skal være long ellers overun 2^32)
+logger: macro test for printf(syntax) i log_x macroer for at undgå warning i macro
+Måske doxygen ??
+Friendly_name til timer
+read config file 
+read option flags
+
+ht_timer.c fd2node - exit perhaps exit via log_err(asdasd); NORETURN
